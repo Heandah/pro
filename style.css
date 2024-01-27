@@ -1,0 +1,86 @@
+
+nav{ font-size: 28px;margin-top: 20px;  background-color: green;  padding: 20px;
+    top: 106px;
+    z-index:1;       
+text-align: center;      }
+a{color:white;   
+    margin: 0 auto;
+
+}
+
+img.a{
+  align-items: start;
+    height:50px ; width:px60;
+}
+
+h2{color: red; text-align: center; font-style: bold; font-size:37px;
+
+}
+
+h1{
+    text-align: center;
+    margin-top: 52px;
+}
+
+input#name {
+    color: rgb(0, 0, 0);
+    border: 4px solid rgb(0, 0, 0);
+    display: inline-block;
+    border-radius: 36px;
+    padding: 6px 12px;
+}
+
+input#house{
+    color: rgb(0, 0, 0);
+    border: 4px solid rgb(0, 0, 0);
+    display: inline-block;
+    border-radius: 36px;
+    padding: 6px 12px;
+}
+
+input#tel{
+    color: rgb(0, 0, 0);
+    border: 4px solid rgb(0, 0, 0);
+    display: inline-block;
+    border-radius: 36px;
+    padding: 6px 12px;
+}
+
+input#class{
+    color: rgb(0, 0, 0);
+    border: 4px solid rgb(0, 0, 0);
+    display: inline-block;
+    border-radius: 36px;
+    padding: 6px 12px;
+}
+input#age{
+    color: rgb(0, 0, 0);
+    border: 4px solid rgb(0, 0, 0);
+    display: inline-block;
+    border-radius: 36px;
+    padding: 6px 12px; 
+}
+
+
+input.f
+{background-color: rgb(24, 0, 243); font-size: 25px; color: white; width: 340px;
+    border-radius: 10px;
+    padding: 8px 16px; 
+}
+
+input.f:hover{
+    text-decoration: underline;
+    color:crimson;
+}
+
+img.z{
+    align-items: center;
+}
+
+p.a{
+    font-size: 50px; 
+    text-align: center;
+}
+p.T{
+    text-align: right;
+}
